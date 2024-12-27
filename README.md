@@ -28,3 +28,26 @@ This tool is perfect for enthusiasts, developers, and content creators who want 
    ```bash
    git clone https://github.com/your-repo/rvc-voice-tool.git
    cd rvc-voice-tool
+
+
+# How to Use RVC Voice Changing AI Tool
+
+This section will guide you through the process of using the **RVC Voice Changing AI Tool**. It covers installation, basic usage, real-time voice transformations, and additional features.
+
+---
+
+## Installation
+
+Before you start using the tool, make sure you've followed the installation steps in the previous section. This includes setting up dependencies, cloning the repository, and downloading any necessary models.
+
+Once you're ready, here are the usage instructions.
+
+---
+
+## Basic Usage
+
+To get started with transforming an audio file, you'll need to run the tool through the command line.
+
+### Command Structure
+```bash
+python tool.py --input <input_file> --output <output_file> --model <model_file>
